@@ -1,1 +1,6 @@
-this feature is from developer 1
+this feature is from developer 1 - 
+
+Developer 1 now fixed the code
+
+developer 2 added his changes here
+
