@@ -1,1 +1,3 @@
 this is a another new feature
+
+Developer 2 added some changes to this feature!
