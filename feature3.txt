@@ -4,3 +4,4 @@ Developer 1 now fixed the code
 
 developer 2 added his changes here
 
+developer 1 has now added some changes to the code
